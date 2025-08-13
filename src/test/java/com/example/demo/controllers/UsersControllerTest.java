@@ -44,7 +44,7 @@ public class UsersControllerTest {
 
         User u2 = new User();
         u2.setName("jane");
-        u2.setPassword("1234");
+        u2.setPassword("12345");
         u2.setSize(25);
 
         List<User> users = new ArrayList<User>();
